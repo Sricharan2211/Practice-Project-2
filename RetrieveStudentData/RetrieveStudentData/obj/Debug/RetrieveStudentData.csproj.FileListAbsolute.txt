@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Practice Project 2\RetrieveStudentData\RetrieveStudentData\bin\Debug\RetrieveStudentData.exe.config
+C:\Users\user\Desktop\Practice Project 2\RetrieveStudentData\RetrieveStudentData\bin\Debug\RetrieveStudentData.exe
+C:\Users\user\Desktop\Practice Project 2\RetrieveStudentData\RetrieveStudentData\bin\Debug\RetrieveStudentData.pdb
+C:\Users\user\Desktop\Practice Project 2\RetrieveStudentData\RetrieveStudentData\obj\Debug\RetrieveStudentData.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practice Project 2\RetrieveStudentData\RetrieveStudentData\obj\Debug\RetrieveStudentData.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practice Project 2\RetrieveStudentData\RetrieveStudentData\obj\Debug\RetrieveStudentData.exe
+C:\Users\user\Desktop\Practice Project 2\RetrieveStudentData\RetrieveStudentData\obj\Debug\RetrieveStudentData.pdb
